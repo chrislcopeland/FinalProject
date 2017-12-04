@@ -8,7 +8,6 @@ public class Desk {
 	
 	//What attributes are needed here?
 	//What does desk need to know to operate?
-	Customer currentCust = new Customer();
 	
 
 	
