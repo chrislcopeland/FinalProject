@@ -5,6 +5,7 @@
 public class Customer {
 	int arriveTime = 0;
 	int duration = 0;
+	int waitTime = 0;
 
 	
 	/**
